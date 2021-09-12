@@ -10,7 +10,7 @@ const Chat = () => {
         <ListItemAvatar>
           <Avatar alt="icon" src="/static/images/avatar/1.jpg" />
         </ListItemAvatar>
-        <div className="p-chat__bubble">tekusuto</div>
+        <div className="p-chat__bubble">test</div>
       </ListItem>
     )
 
